@@ -8,6 +8,11 @@ body {
     margin: 0;
 }
 
+.logo {
+    width: 250px;
+    margin-bottom: 20px;
+}
+
 #auth-container, #user-info {
     text-align: center;
 }
