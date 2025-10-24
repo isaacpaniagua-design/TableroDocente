@@ -47,7 +47,7 @@ loginButton.addEventListener('click', () => {
         });
 });
 
-logoutButton.addEventListener('click', (). => {
+logoutButton.addEventListener('click', () => {
     auth.signOut();
     updateUI(null);
 });
